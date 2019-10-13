@@ -1,0 +1,3 @@
+But the same can be done very wisely with values in dictionary. Let’s see all the different ways we can create a dictionary of Lists.
+
+Method #1: Using subscript
